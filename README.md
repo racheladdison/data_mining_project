@@ -1,7 +1,9 @@
 # data_mining_project
 
 Project Source GDELT 1.0: http://blog.gdeltproject.org/the-datasets-of-gdelt-as-of-february-2016/
+
 Datasets: http://data.gdeltproject.org/events/index.html
+
 Data Format Guide: http://data.gdeltproject.org/documentation/GDELT-Data_Format_Codebook.pdf
 
 # Dataset Description
