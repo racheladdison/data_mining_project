@@ -15,5 +15,5 @@ Data Format Guide: http://data.gdeltproject.org/documentation/GDELT-Data_Format_
   What different attribute values show up in news for the longest amount of time after their occurance?
     Ex: Do negative events stay on the news longer than positive events? Does protest coverage last longer or shorter than violence coverage?
     
-How do different regions react to news from around the world, are their emotional reactions based on their ethnicity?    
+How do different regions react to news from around the world, are emotional reactions different based on ethnicity?    
     
